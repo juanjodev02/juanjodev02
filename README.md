@@ -40,8 +40,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://juanjodev02.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/juan-jaramillo-98337b190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/juanjodev0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:juanjodev02@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://juanjodev02.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.juanjodev02.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/juan-jaramillo-98337b190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Jose%20Jaramillo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/juanjodev0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-juanjodev02-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:juanjodev02@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-juanjodev02@icloud.com-blue?style=flat-square&logo=gmail"></a>
 </p>
