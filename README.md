@@ -3,6 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 👨🏻‍💻 &nbsp; Full Stack Web Developer
 - 🎓 &nbsp; Studying Software Engineering at Escuela Politécnica Nacional.
 - 🌱 &nbsp; Learning more about JavaScript Development with React and Node Js, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Founder of the EPN Software Club community 
