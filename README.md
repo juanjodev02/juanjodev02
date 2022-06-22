@@ -7,6 +7,7 @@
 - 🎓 &nbsp; Studying Software Engineering at Escuela Politécnica Nacional.
 - 🌱 &nbsp; Learning more about JavaScript Development with React and Node Js, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Founder of the EPN Software Club community 
+- ✍️ &nbsp; Founder & CEO at [ADA tech](https://www.adatech.dev/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
