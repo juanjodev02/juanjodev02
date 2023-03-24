@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 👨🏻‍💻 &nbsp; Full Stack Web Developer
-- 🎓 &nbsp; Studying Software Engineering at Escuela Politécnica Nacional.
-- 🌱 &nbsp; Learning more about JavaScript Development with React and Node Js, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Software Engineering at Escuela Politécnica Nacional.
+- 🌱 &nbsp; Learning more about JavaScript Development with React and Node Js, Software Architecture
 - ✍️ &nbsp; Founder of the EPN Software Club community 
 - ✍️ &nbsp; Founder & CEO at [ADA tech](https://www.adatech.dev/)
 
